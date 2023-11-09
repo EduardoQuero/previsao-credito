@@ -10,7 +10,7 @@
 
 ---
 
-[video-projeto-eduardo.mov](../../../Downloads/streamlit-Projeto_eduardo.mov)
+[video-projeto-eduardo.mov](https://github.com/EduardoQuero/previsao-renda/blob/main/streamlit-Projeto_eduardo.mov)
 
 ---
 
