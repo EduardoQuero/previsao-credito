@@ -10,7 +10,7 @@
 
 ---
 
-[video-projeto-rodando-eduardo.mov](https://github.com/EduardoQuero/previsao-renda/blob/main/video-projeto-rodando-eduardo.mov)
+[video-projeto-rodando-eduardo.mov](https://github.com/EduardoQuero/previsao-renda/blob/main/streamlit-Projeto_02-2023-11-09-15-11-26.webm)
 
 ---
 
