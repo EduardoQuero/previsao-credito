@@ -3,7 +3,7 @@
 ---
 
 # [**Profissão: Cientista de Dados**](https://github.com/EduardoQuero/Profissao-Cientista-de-Dados)
-### [**Projeto #02**](https://github.com/EduardoQuero/previsao-renda/blob/main/ebac-projeto02-previsao_eduardo-quero.ipynb) | [Previsão de renda](https://eduardo-quero-ebac-projeto02-previsao-renda.streamlit.app/)
+### [**Projeto #02**](https://github.com/EduardoQuero/previsao-renda/blob/main/ebac-projeto02-previsao_eduardo-quero.ipynb) | [Previsão de Renda](https://eduardo-quero-ebac-projeto02-previsao-renda.streamlit.app/)
 
 **Por:** [Eduardo Quero](https://www.linkedin.com/in/eduardo-quero/)<br>
 <!-- **Data:** 08 de Novembro de 2023.<br> -->
